@@ -1,19 +1,8 @@
 ---
-title:
-layout: cover
-exclude: true
+title: Товарищество «Эта»
+subtitle: Проект реализуется при методологической поддержке ИФЗ РАН им. О. Ю. Шмидта
+shortname: E-T-A.SPACE
+layout: default
 ---
 
-# The articles
-
-<ul>
-
-  {% assign mypages = site.pages | sort: "order" %}
-  {% for page in mypages %}
-  {% unless page.exclude %}
-  <li class="intro">
-  <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
-  </li>
-  {% endunless %}
- {% endfor %}
-</ul>
+Товарищество «Эта» появилось в 2017 как коллаборация разработчиков цифровых и коммуникативных технологий, применяемых при разработке мультимедиа в целях визуализации данных, построения виртуальных и систем дополненной реальности.

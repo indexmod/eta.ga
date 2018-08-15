@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <ul>
+    {% assign mypages = site.pages | sort: "order" %}
+    {% for page in mypages %}
+    {% unless page.exclude %}
+    <li class="intro">
+    <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+    </li>
+    {% endunless %}
+   {% endfor %}
+  </ul>
+  <a href="https://www.facebook.com/groups/273348243151706/">«Эта» в Facebook</a>
+  <br>
+  <a href="https://www.youtube.com/channel/UCTpi4gK6Tt6RZCW8cUB8Flg">«Эта» в YouTube</a>
+</body>
+</html>
