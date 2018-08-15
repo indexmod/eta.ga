@@ -3,7 +3,7 @@ title: Hello
 subtitle: This is suntitle
 layout: default
 shortname: H
-video: https://giphy.com/gifs/2dGZ5kHU4YXcc/html5
+video: https://media.giphy.com/media/2dGZ5kHU4YXcc/giphy.mp4
 ---
 
 Cъешь ещё этих мягких французских булок, да выпей чаю.
