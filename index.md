@@ -2,7 +2,7 @@
 title: Товарищество «Эта»
 subtitle: Проект реализуется при методологической поддержке ИФЗ РАН им. О. Ю. Шмидта
 shortname: E-T-A.SPACE
-video: eta-space/media/video-video.mp4
+video: https://media.giphy.com/media/2dGZ5kHU4YXcc/giphy.mp4
 layout: default
 ---
 
