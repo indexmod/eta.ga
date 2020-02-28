@@ -84,22 +84,22 @@ body {
 
 /* unvisited link */
  a:link {
-     color: lime;
+     color: red;
      text-decoration: none;
 }
 /* visited link */
  a:visited {
-     color: lime;
+     color: red;
      text-decoration: none;
 }
 /* mouse over link */
  a:hover {
-     color: green;
+     color: yellow;
      text-decoration: none;
 }
 /* selected link */
  a:active {
-     color: lime;
+     color: red;
      text-decoration: none;
 }
  .caption {
@@ -135,7 +135,7 @@ body {
   z-index: 5
 }
  .overlay-name {
-     color: yellow;
+     color: pink;
      font-weight: 100;
      font-family: 'IBM Plex Mono', sans-serif;
      font-size: 5em;
