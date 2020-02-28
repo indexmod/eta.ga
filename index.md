@@ -1,6 +1,6 @@
 ---
 title: Товарищество «Эта»
-subtitle: Проект реализуется при методологической поддержке ИФЗ РАН им. О. Ю. Шмидта
+subtitle: При методологической поддержке ИФЗ РАН им. О. Ю. Шмидта
 shortname: e-t-a.ga
 video: https://media.giphy.com/media/eEG5KXWnt7CzS/giphy.mp4
 layout: default
