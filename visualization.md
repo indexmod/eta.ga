@@ -4,7 +4,7 @@ subtitle: Визуализация и моделирование
 prmalink: visualization
 layout: default
 shortname: Visualization
-video: https://media.giphy.com/media/BMnfI7IdYaAyOKKWBJ/giphy.mp4
+video: https://coub.com/view/29roq1
 ---
 
 = Авторы =
