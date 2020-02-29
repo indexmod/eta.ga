@@ -88,8 +88,18 @@ a:link {
     text-decoration: none;
 }
 
-a:facebook.link {
+a.facebook:link {
     color: purple;
+    text-decoration: none;
+}
+
+a.youtube:link {
+    color: red;
+    text-decoration: none;
+}
+
+a.coub:link {
+    color: blue;
     text-decoration: none;
 }
 
