@@ -83,10 +83,16 @@ body {
 }
 
 /* unvisited link */
- a:link {
-     color: pink;
-     text-decoration: none;
+a:link {
+    color: pink;
+    text-decoration: none;
 }
+
+a:facebook.link {
+    color: purple;
+    text-decoration: none;
+}
+
 /* visited link */
  a:visited {
      color: pink;
