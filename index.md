@@ -1,7 +1,7 @@
 ---
 title: «Эта»
-subtitle: Товарищество «Эта»
-shortname: e-t-a.ga
+subtitle: E-t-a.ga
+shortname: «Эта»
 video: https://media.giphy.com/media/eEG5KXWnt7CzS/giphy.mp4
 layout: default
 ---
