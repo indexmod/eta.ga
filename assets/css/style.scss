@@ -37,15 +37,14 @@ body {
 
  h3 {
   color: pink;
-	font-size: 8px;
+	font-size: 25px;
 	font-family: 'IBM Plex Mono', sans-serif;
-	font-weight: 300;
-	transform: skewY(-15deg);
+	font-weight: 700;
 }
 
  hr {
      border: none;
-     background-color: white;
+     background-color: pink;
      color: white;
      height: 20px;
 }
@@ -141,5 +140,6 @@ a:visited {
      font-family: 'IBM Plex Mono', sans-serif;
      font-size: 5em;
      text-align: center;
-     line-height: 90%
+     transform: skewY(-15deg);
+     line-height: 90%;
 }
