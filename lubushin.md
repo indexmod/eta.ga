@@ -4,7 +4,7 @@ subtitle:
 prmalink: lubushin
 layout: default
 shortname: Любушин
-video: https://media.giphy.com/media/L4Tk5BCxkvb267Cndk/giphy.mp4
+video: https://media.giphy.com/media/dZ4QuPH7OOPK6sEfp5/giphy.mp4
 ---
 
 ## Пространственно-временные особенности поля высокочастотных шумов GPS
