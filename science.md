@@ -4,7 +4,7 @@ subtitle: Сайнс-арт
 prmalink: science
 layout: default
 shortname: Art
-video: https://media.giphy.com/media/gAP7b0xDKzuqk/giphy.mp4
+video: https://media.giphy.com/media/r0jmEqjN9KiZO/giphy.mp4s
 ---
 
 + [Сайнс-арт](art)
