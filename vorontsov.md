@@ -4,7 +4,7 @@ subtitle: Визуализация и моделирование
 prmalink: vorontsov
 layout: default
 shortname: Воронцов
-video:
+video: https://www.youtube.com/watch?time_continue=4&v=K8LZ83xWP4o
 ---
 
-[![](http://img.youtube.com/vi/K8LZ83xWP4o/0.jpg)](http://www.youtube.com/watch?v=K8LZ83xWP4o "")
++ [Реконструкции астрономических изображений](https://www.youtube.com/watch?time_continue=4&v=K8LZ83xWP4o)
