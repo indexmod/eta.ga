@@ -1,6 +1,6 @@
 ---
-title: Визуализация и моделирование
-subtitle: Визуализация и моделирование
+title: Воронцов
+subtitle: 
 prmalink: vorontsov
 layout: default
 shortname: Воронцов
