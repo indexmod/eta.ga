@@ -15,4 +15,4 @@ video: https://media.giphy.com/media/MEFa4nmarBGz65dxRX/giphy.mp4
 
 ## Дополнительно
 
-+ [Dr Sergei Vorontsov at Queen Mary University of Londonй](https://www.qmul.ac.uk/spa/astro/group-members/)
++ [Dr Sergei Vorontsov at Queen Mary University of London](https://www.qmul.ac.uk/spa/astro/group-members/)
