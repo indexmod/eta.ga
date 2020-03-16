@@ -1,9 +1,9 @@
 ---
 title: Визуализация и моделирование
-subtitle: Визуализация и моделирование
+subtitle: И моделирование
 prmalink: visualization
 layout: default
-shortname: Visual
+shortname: Визуализация
 video: https://media.giphy.com/media/lNFOlgYf0FIMjDu7aV/giphy.mp4
 ---
 
