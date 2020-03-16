@@ -1,9 +1,9 @@
 ---
 title: Пресс-релизы
-subtitle: Пресс-релизы
+subtitle: 
 prmalink: press
 layout: default
-shortname: Presssss
+shortname: Пресс-релизы
 video: https://media.giphy.com/media/YfRc9QhF2lBMQ/giphy.mp4
 ---
 

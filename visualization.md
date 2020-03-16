@@ -1,6 +1,6 @@
 ---
-title: Визуализация и моделирование
-subtitle: и моделирование
+title: Визуализация
+subtitle:
 prmalink: visualization
 layout: default
 shortname: Визуализация
