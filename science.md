@@ -1,9 +1,9 @@
 ---
 title: Сайнс-арт
-subtitle: Сайнс-арт
+subtitle:
 prmalink: science
 layout: default
-shortname: Art
+shortname: Сайнс-арт
 video: https://media.giphy.com/media/r0jmEqjN9KiZO/giphy.mp4
 ---
 
