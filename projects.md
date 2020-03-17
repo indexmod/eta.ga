@@ -1,9 +1,9 @@
 ---
 title: Спецпроекты
-subtitle: Спецпроекты
+subtitle: 
 prmalink: projects
 layout: default
-shortname: Спецwwwww
+shortname: Спецпроекты
 video: https://media.giphy.com/media/Wza1KrtlXIL3q/giphy.mp4
 ---
 
