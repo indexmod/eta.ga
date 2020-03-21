@@ -1,5 +1,5 @@
 ---
-title: Визуализация
+title: Визуали-зация
 subtitle:
 prmalink: visualization
 layout: default
