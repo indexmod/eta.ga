@@ -10,8 +10,8 @@ video: https://media.giphy.com/media/lNFOlgYf0FIMjDu7aV/giphy.mp4
 ## Авторы
 
 + [Дейниченко](3000)
-+ [Тужиков](tuzhikov)
-+ [Туинова](tuinova)
++ [Тужиков](sonification)
++ [Туинова](sonification)
 
 ## Темы
 
