@@ -4,7 +4,7 @@ subtitle:
 prmalink: visualization
 layout: default
 shortname: Визуали- зация
-video: https://media.giphy.com/media/lNFOlgYf0FIMjDu7aV/giphy.mp4
+video: https://media.giphy.com/media/BMnfI7IdYaAyOKKWBJ/giphy.mp4
 ---
 
 ## Авторы
