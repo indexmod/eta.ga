@@ -10,7 +10,7 @@ video: https://media.giphy.com/media/r0jmEqjN9KiZO/giphy.mp4
 #  Авторы
 
 + [Дейниченко](3000)
-+ [Туинова]()
++ [Туинова](sonification)
 
 #  Темы
 
