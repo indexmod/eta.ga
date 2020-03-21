@@ -4,7 +4,7 @@ subtitle:
 prmalink: sonification
 layout: default
 shortname: Сонификация
-video: https://media.giphy.com/media/Jq2FoB56KNllG2Ox19/giphy.mp4
+video: https://media.giphy.com/media/lNFOlgYf0FIMjDu7aV/giphy.mp4
 ---
 
 
