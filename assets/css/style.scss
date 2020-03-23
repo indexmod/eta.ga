@@ -135,11 +135,11 @@ a:visited {
   z-index: 5
 }
  .overlay-name {
-     color: white;
-     font-weight: 100;
+     color: black;
+     font-weight: 200;
      font-family: 'IBM Plex Mono', sans-serif;
-     font-size: 3em;
+     font-size: 4em;
      text-align: center;
-     transform: skewY(-1deg);
+     transform: skewY(0deg);
      line-height: 90%;
 }
