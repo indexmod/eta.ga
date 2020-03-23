@@ -125,6 +125,13 @@ a:visited {
      width: 100%;
 }
 
+mark {
+  background: white;
+  padding: 0 3px;
+  border: 1px dashed #333;
+  transform: perspective(-5);
+ }
+
 .overlay-desc {
   background: alpha;
   position: absolute;
