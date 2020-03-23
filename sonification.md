@@ -41,4 +41,4 @@ video: https://media.giphy.com/media/lNFOlgYf0FIMjDu7aV/giphy.mp4
 
 Максим Тужиков -- эксперт в геоинформационных технологиях и мультимедиа, сотрудник ИФЗ РАН, журналист, основатель «Эты».
 
-Источник видео: https://www.instagram.com/p/BuMK5uNHQ1u/?utm_source=ig_web_button_share_sheet
+Источник видео: <https://www.instagram.com/p/BuMK5uNHQ1u/?utm_source=ig_web_button_share_sheet>
