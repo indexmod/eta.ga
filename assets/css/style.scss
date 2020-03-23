@@ -126,10 +126,8 @@ a:visited {
 }
 
 mark {
-  background: white;
-  padding: 0 3px;
-  border: 1px dashed #333;
-  transform: perspective(-5);
+  background: pink;
+  padding: 0 10px;
  }
 
 .overlay-desc {
@@ -147,6 +145,6 @@ mark {
      font-family: 'IBM Plex Mono', sans-serif;
      font-size: 2em;
      text-align: right;
-     transform: skewY(15deg);
+     transform: skewY(-15deg);
      line-height: 90%;
 }
