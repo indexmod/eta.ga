@@ -3,7 +3,7 @@ title: Визуализация
 subtitle:
 prmalink: visualization
 layout: default
-shortname: Визуали- зация
+shortname: Визуализация
 video: https://media.giphy.com/media/BMnfI7IdYaAyOKKWBJ/giphy.mp4
 ---
 
