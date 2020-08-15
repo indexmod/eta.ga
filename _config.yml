@@ -1,8 +1,8 @@
 ---
 
-title: «Эта»
+title: Ластик
 timezone: UTC
-description: Коллаборация разработчиков цифровых и коммуникативных технологий
+description: Анимационная студия в Москве
 
 show_sidebar: false
 show_downloads: false
@@ -21,8 +21,8 @@ custom_sidebar: false
 custom_footer: false
 
 prose:
-  rooturl: 'https://github.com/indexmod/eta.ga'
-  siteurl: 'https://e-t-a.ga/index'
+  rooturl: 'https://github.com/indexmod/lastik'
+  siteurl: 'https://github.com/indexmod/lastik'
   relativeLinks: 'https://prose.github.io/starter/links.jsonp'
   media: '/media'
 
