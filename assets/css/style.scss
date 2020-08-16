@@ -24,19 +24,19 @@ body {
      font-family: 'IBM Plex Mono', sans-serif;
      font-weight: 900;
      font-size: 2em;
-     color: white;
+     color: #e84bc1;
      line-height: 0.9em;
 }
  h2 {
      font-family: 'IBM Plex Mono', sans-serif;
      font-weight: 500;
      font-size: 1,5em;
-     color: white;
+     color: #e84bc1;
      line-height: 1.3em;
 }
 
  h3 {
-  color: pink;
+  color: white;
 	font-size: 1em;
 	font-family: 'IBM Plex Mono', sans-serif;
 	font-weight: 900;
@@ -44,15 +44,15 @@ body {
 
  hr {
      border: none;
-     background-color: pink;
-     color: white;
+     background-color: #e84bc1;
+     color: #e84bc1;
      height: 20px;
 }
 
  p {
      font-family: 'IBM Plex Mono', sans-serif;
      font-weight: 400;
-     color: white;
+     color: #e84bc1;
      font-size: 20px;
      line-height: 1.5em;
 }
@@ -67,7 +67,7 @@ body {
  ul {
      font-family: 'IBM Plex Mono', sans-serif;
      font-weight: 400;
-     color: white;
+     color: #e84bc1;
      font-size: 20px;
      line-height: 1.5em;
 }
@@ -75,14 +75,14 @@ body {
  li {
      font-family: 'IBM Plex Mono', sans-serif;
      font-weight: 400;
-     color: white;
+     color: #e84bc1;
      font-size: 20px;
      line-height: 1.5em;
 }
 
 /* unvisited link */
 a:link {
-    color: pink;
+    color: #e84bc1;
     text-decoration: none;
 }
 
@@ -93,12 +93,12 @@ a:link {
 }
 /* selected link */
  a:active {
-     color: pink;
+     color: #e84bc1;
      text-decoration: none;
 }
 
 a:visited {
-    color: pink;
+    color: #e84bc1;
     text-decoration: none;
 }
 
@@ -106,7 +106,7 @@ a:visited {
      font-size: 20px;
      font-family: 'IBM Plex Mono', sans-serif;
      font-weight: 300;
-     color: white;
+     color: #e84bc1;
      line-height: 110%;
 }
  .footer {
@@ -126,7 +126,7 @@ a:visited {
 }
 
 mark {
-  background: orange;
+  background: #e84bc1;
   padding-left: 2px;
   padding-right: 2px;
  }
@@ -141,11 +141,11 @@ mark {
   z-index: 5
 }
  .overlay-name {
-     color: black;
+     color: white;
      font-weight: 900;
      font-family: 'IBM Plex Mono', sans-serif;
-     font-size: 2em;
+     font-size: 3em;
      text-align: right;
-     transform: skewY(0deg);
+     transform: skewY(1deg);
      line-height: 90%;
 }
